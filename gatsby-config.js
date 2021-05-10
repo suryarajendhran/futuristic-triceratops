@@ -2,14 +2,14 @@ const path = require('path');
 
 module.exports = {
     siteMetadata: {
-        title: `Novela by Narative`,
-        name: `Narative`,
-        siteUrl: `https://gatsby-theme-novela.netlify.com`,
+        title: `TPS by Aathirai`,
+        name: `The Pleated Stories`,
+        siteUrl: `https://thepleatedstories.com`,
         description: `This is my description that will be used in the meta tags and important for search results`,
 
         // important to set the main text that appears in the hero
         hero: {
-            heading: `Perspectives on technology, design and business from the team at Narative.`,
+            heading: `Biotech graduate on paper, aspiring stylist at heart!`,
             maxWidth: 652,
         },
         social: [
@@ -42,7 +42,7 @@ module.exports = {
                 mailchimp: false,
                 sources: {
                     local: true,
-                    contentful: true,
+                    contentful: false,
                 },
             },
         }
