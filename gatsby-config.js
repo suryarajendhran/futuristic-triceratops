@@ -42,7 +42,7 @@ module.exports = {
                 mailchimp: false,
                 sources: {
                     local: true,
-                    contentful: false,
+                    contentful: true,
                 },
             },
         }
