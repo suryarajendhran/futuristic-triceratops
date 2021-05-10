@@ -24,7 +24,7 @@
   "dependencies": {
     "@narative/gatsby-theme-novela": "^0.18.4",
     "gatsby": "^2.13.41",
-    "gatsby-source-contentful": "^5.4.0",
+    "gatsby-source-contentful": "^4.6.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   }
